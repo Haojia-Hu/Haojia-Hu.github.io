@@ -1,0 +1,12 @@
+---
+title: "Mortgage Rate Lock-in Effect and Housing Market Dynamic"
+collection: publications
+category: working_in_progress
+venue: "Work in Progress"
+excerpt: "This paper studies how mortgage rate lock-in shapes short-run housing market dynamics in the United States. Using loan-level HMDA data, I construct a monthly CBSA-level measure of the mortgage rate gap and identify its effects using a shift-share instrument based on national refinancing shocks and local mortgage vintages. A larger rate gap leads to sharp and immediate declines in new listings, inventory, and pending sales, indicating strong mobility frictions and reduced market liquidity. In contrast, house price responses are small and delayed. The results show that mortgage lock-in operates primarily through quantities rather than prices, with local market conditions shaping the adjustment."
+date: 2025-10-01
+---
+
+**Status:** Work in progress.
+
+This paper studies how mortgage rate lock-in shapes short-run housing market dynamics in the United States. Using loan-level HMDA data, I construct a monthly CBSA-level measure of the mortgage rate gap and identify its effects using a shift-share instrument based on national refinancing shocks and local mortgage vintages. A larger rate gap leads to sharp and immediate declines in new listings, inventory, and pending sales, indicating strong mobility frictions and reduced market liquidity. In contrast, house price responses are small and delayed. The results show that mortgage lock-in operates primarily through quantities rather than prices, with local market conditions shaping the adjustment.
