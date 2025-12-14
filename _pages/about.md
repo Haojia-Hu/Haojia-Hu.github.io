@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+# About Me
 ====
 Haojia Hu is a Ph.D. candidate in Economics at American University in Washington, DC.
 
